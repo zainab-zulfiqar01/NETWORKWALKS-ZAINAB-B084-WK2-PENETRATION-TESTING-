@@ -315,7 +315,7 @@ I have also prepared a detailed report covering both project modules, including 
 
 **Project Report: WK2.pdf**
 
-[View / Download Complete Week 2 Report](WK2.pdf)
+[View / Download Complete Week 2 Report](Week2.pdf)
 
 # 12. Conclusion
 
